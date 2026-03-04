@@ -1,0 +1,30 @@
+{
+  "name": "shrey16-plugins",
+  "owner": {
+    "name": "Shrey Gupta",
+    "email": "shrey@example.com"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by Shrey Gupta",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "pm-copilot",
+      "description": "Autonomous product management copilot — feature drilling, spec generation, checkpoint-based implementation, and product health tracking",
+      "version": "0.1.0",
+      "author": {
+        "name": "Shrey Gupta",
+        "email": "shrey@example.com"
+      },
+      "source": {
+        "source": "github",
+        "repo": "shrey16/pm-copilot"
+      },
+      "category": "productivity",
+      "homepage": "https://github.com/shrey16/pm-copilot",
+      "keywords": ["product-management", "feature-drilling", "spec-generation", "implementation"],
+      "license": "MIT"
+    }
+  ]
+}
