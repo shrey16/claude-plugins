@@ -12,7 +12,7 @@ A marketplace of Claude Code plugins.
 
 | Plugin | Description | Version |
 |--------|-------------|---------|
-| [pm-copilot](https://github.com/shrey16/pm-copilot) | Autonomous product management copilot — feature drilling, spec generation, checkpoint-based implementation, and product health tracking | 0.1.0 |
+| [pm-copilot](https://github.com/shrey16/pm-copilot) | Autonomous product management copilot — architecture definition, feature drilling, spec generation, stack-agnostic implementation, and product health tracking | 0.2.0 |
 
 ## Installing a Plugin
 
